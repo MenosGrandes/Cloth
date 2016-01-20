@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1453301682 source:/home/menosgrandes/Pulpit/cloth/d/main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<vector>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
